@@ -1,0 +1,22 @@
+{
+  "name": "sponsors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "sponsorkit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Helloyunho/sponsors.git"
+  },
+  "author": "Helloyunho",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Helloyunho/sponsors/issues"
+  },
+  "homepage": "https://github.com/Helloyunho/sponsors#readme",
+  "description": "",
+  "dependencies": {
+    "sponsorkit": "^0.15.4"
+  }
+}
